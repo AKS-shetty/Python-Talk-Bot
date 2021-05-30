@@ -5,10 +5,16 @@ They believe that talking bot over chat bot will improve the customer experience
 
 The objective of this project is to develop an AI assistant which understands the message spoken by the user and will speak the reply.
 Libraries used are:
+
   SpeechRecognition:
+  
    reference: https://realpython.com/python-speech-recognition/
+   
   pyttsx3:
-   refernce: https://pypi.org/project/pyttsx3/
-             https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+  
+   refernce: https://pypi.org/project/pyttsx3/   
+         https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+             
   chatterbot:
+  
    refernce: https://pypi.org/project/ChatterBot/
